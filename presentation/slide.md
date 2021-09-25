@@ -668,3 +668,6 @@ struct SomeView: View {
 ---
 
 ### Thank you for your time!
+
+Repo for this presentation, including slides and sample project: 
+https://github.com/vinhnx/try-SwiftUI
